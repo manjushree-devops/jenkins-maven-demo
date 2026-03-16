@@ -10,3 +10,15 @@
  <version>1.0-SNAPSHOT</version>
 
 </project>
+<project xmlns="http://maven.apache.o>
+ xmlns:xsi="http://www.w3.org/2001/XM>
+ xsi:schemaLocation="http://maven.apa>
+ http://maven.apache.org/xsd/maven-4.>
+
+ <modelVersion>4.0.0</modelVersion>
+
+ <groupId>com.example</groupId>
+ <artifactId>devops-demo</artifactId>
+ <version>1.0-SNAPSHOT</version>
+
+</project>
